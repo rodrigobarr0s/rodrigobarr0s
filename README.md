@@ -7,7 +7,7 @@
 
 <img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-#### Desenvolvedor Back-end | SQL Server, MySQL | Git, GitHub
+#### Desenvolvedor Back-end | Java | SQL Server, MySQL | Git, GitHub
 <i>(Itaocara, RJ - Brasil)</i>
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/rodrigodlbarros)
