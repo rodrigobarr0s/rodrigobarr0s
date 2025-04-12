@@ -23,9 +23,14 @@
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
- <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
+  <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
     <h3><a href="https://github.com/rodrigobarr0s/demo-dao-jdbc" target="_blank">🗃️ Sistema de Banco de Dados</a></h3>
     <p>Projeto Java com JDBC e MySQL para realizar operações CRUD em entidades como Vendedores e Departamentos.</p>
+  </div>
+
+  <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
+    <h3><a href="https://github.com/rodrigobarr0s/banco-digital" target="_blank">🏦 Banco Digital - Gerenciamento de Contas</a></h3>
+    <p>Sistema bancário em Java com arquitetura MVC e POO. Possui criação de contas, saques, depósitos, transferências, extrato e rendimento de poupança.</p>
   </div>
 
   <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
@@ -34,26 +39,21 @@
   </div> 
 
   <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
-    <h3><a href="https://github.com/rodrigobarr0s/controle-candidatos" target="_blank">👨‍💼 Processo Seletivo</a></h3>
-    <p>Simulação de um processo seletivo com lógica de seleção por salário e tentativas de contato em Java.</p>
+    <h3><a href="https://github.com/rodrigobarr0s/dio-lab-open-source" target="_blank">🌐 DIO Lab Open Source</a></h3>
+    <p>Contribuição ativa em projeto colaborativo da Digital Innovation One, voltado ao aprendizado de práticas de código aberto no GitHub.</p>
+    <p>Criei meu <strong>Profile README</strong> com badges, links e estatísticas, seguindo as diretrizes da comunidade.</p>
+    <details>
+      <summary><strong>Guia de Contribuição</strong></summary>
+      <ul>
+        <li>⭐ Adicione o projeto aos favoritos (star)</li>
+        <li>📁 Crie um fork e clone localmente</li>
+        <li>🌱 Crie uma branch com seu nome de usuário</li>
+        <li>🧾 Crie seu Profile README com badges, stats e links</li>
+        <li>💬 Crie um commit padronizado (ex: <code>feat: add rodrigobarr0s.md</code>)</li>
+        <li>📤 Envie as alterações e crie um pull request</li>
+      </ul>
+      <p>Confira exemplos em <code>/community</code> e utilitários em <code>/utils</code>. Use sua criatividade! 💙</p>
+    </details>
   </div>
-
-  <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
-  <h3><a href="https://github.com/rodrigobarr0s/dio-lab-open-source" target="_blank">🌐 DIO Lab Open Source</a></h3>
-  <p>Contribuição ativa em projeto colaborativo da Digital Innovation One, voltado ao aprendizado de práticas de código aberto no GitHub.</p>
-  <p>Criei meu <strong>Profile README</strong> com badges, links e estatísticas, seguindo as diretrizes da comunidade.</p>
-  <details>
-    <summary><strong>Guia de Contribuição</strong></summary>
-    <ul>
-      <li>⭐ Adicione o projeto aos favoritos (star)</li>
-      <li>📁 Crie um fork e clone localmente</li>
-      <li>🌱 Crie uma branch com seu nome de usuário</li>
-      <li>🧾 Crie seu Profile README com badges, stats e links</li>
-      <li>💬 Crie um commit padronizado (ex: <code>feat: add rodrigobarr0s.md</code>)</li>
-      <li>📤 Envie as alterações e crie um pull request</li>
-    </ul>
-    <p>Confira exemplos em <code>/community</code> e utilitários em <code>/utils</code>. Use sua criatividade! 💙</p>
-  </details>
-</div>
 
 </div>
