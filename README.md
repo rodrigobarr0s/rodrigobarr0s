@@ -23,20 +23,21 @@
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
-  <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
-    <h3><a href="https://github.com/rodrigobarr0s/demo-dao-jdbc" target="_blank">🗃️ Sistema de Banco de Dados</a></h3>
-    <p>Projeto Java com JDBC e MySQL para realizar operações CRUD em entidades como Vendedores e Departamentos.</p>
-  </div>
+ <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
+  <h3><a href="https://github.com/rodrigobarr0s/demo-dao-jdbc" target="_blank">🗃️ Sistema de Banco de Dados (JDBC + MySQL)</a></h3>
+  <p>Projeto Java com JDBC e MySQL para realizar operações CRUD em entidades como Vendedores e Departamentos.</p>
+</div>
 
-  <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
-    <h3><a href="https://github.com/rodrigobarr0s/banco-digital" target="_blank">🏦 Banco Digital - Gerenciamento de Contas</a></h3>
-    <p>Sistema bancário em Java com arquitetura MVC e POO. Possui criação de contas, saques, depósitos, transferências, extrato e rendimento de poupança.</p>
-  </div>
+<div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
+  <h3><a href="https://github.com/rodrigobarr0s/sudoku-game" target="_blank">🧩 Sudoku Game (Java + Swing)</a></h3>
+  <p><a href="https://github.com/rodrigobarr0s/sudoku-game/blob/main/assets/sudoku.png?raw=true" target="_blank">Preview do Sudoku Game</a></p>
+  <p>Jogo de Sudoku com interface gráfica em Java. Validações em tempo real, reinício e finalização do jogo com lógica e interatividade.</p>
+</div>
 
-  <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
-    <h3><a href="https://github.com/rodrigobarr0s/iphone-uml-modeling" target="_blank">📱 iPhone UML Modeling</a></h3>
-    <p>Modelagem UML e implementação em Java das funcionalidades do iPhone 2007: reprodutor, telefone e navegador.</p>
-  </div> 
+<div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
+  <h3><a href="https://github.com/rodrigobarr0s/banco-digital" target="_blank">🏦 Banco Digital (MVC + POO)</a></h3>
+  <p>Sistema bancário com arquitetura em camadas. Permite abrir contas, fazer transferências, saques, depósitos e gerar extrato com boas práticas de programação orientada a objetos.</p>
+</div>
 
   <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
     <h3><a href="https://github.com/rodrigobarr0s/dio-lab-open-source" target="_blank">🌐 DIO Lab Open Source</a></h3>
