@@ -23,15 +23,15 @@
 
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
+<div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
+  <h3><a href="https://github.com/rodrigobarr0s/ClientAddressAPI" target="_blank">📦 Client Address API (Spring Boot + ViaCEP)</a></h3>
+  <p>API RESTful para gerenciamento de clientes e endereços. Integra com o ViaCEP para consultar dados de endereço a partir do CEP.</p>
+  <p><strong>Principais funcionalidades:</strong> CRUD de clientes, integração com ViaCEP, armazenamento em banco de dados H2, documentação com Swagger/OpenAPI.</p>
+</div>
+
  <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
   <h3><a href="https://github.com/rodrigobarr0s/demo-dao-jdbc" target="_blank">🗃️ Sistema de Banco de Dados (JDBC + MySQL)</a></h3>
   <p>Projeto Java com JDBC e MySQL para realizar operações CRUD em entidades como Vendedores e Departamentos.</p>
-</div>
-
-<div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
-  <h3><a href="https://github.com/rodrigobarr0s/sudoku-game" target="_blank">🧩 Sudoku Game (Java + Swing)</a></h3>
-  <p><a href="https://github.com/rodrigobarr0s/sudoku-game/blob/main/assets/sudoku.png?raw=true" target="_blank">Preview do Sudoku Game</a></p>
-  <p>Jogo de Sudoku com interface gráfica em Java. Validações em tempo real, reinício e finalização do jogo com lógica e interatividade.</p>
 </div>
 
 <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
