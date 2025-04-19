@@ -24,7 +24,7 @@
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
 <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
-  <h3><a href="https://github.com/rodrigobarr0s/ClientAddressAPI" target="_blank">📦 Client Address API (Spring Boot + ViaCEP)</a></h3>
+  <h3><a href="https://github.com/rodrigobarr0s/client-address-api" target="_blank">📦 Client Address API (Spring Boot + ViaCEP)</a></h3>
   <p>API RESTful para gerenciamento de clientes e endereços. Integra com o ViaCEP para consultar dados de endereço a partir do CEP.</p>
   <p><strong>Principais funcionalidades:</strong> CRUD de clientes, integração com ViaCEP, armazenamento em banco de dados H2, documentação com Swagger/OpenAPI.</p>
 </div>
