@@ -24,14 +24,15 @@
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
 <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
+  <h3><a href="https://github.com/rodrigobarr0s/cloud-bank-api" target="_blank">☁️ Cloud Bank API (Spring Boot + PostgreSQL)</a></h3>
+  <p>API para gerenciamento de contas bancárias, usuários, cartões e notícias. Base sólida para criar APIs escaláveis e robustas.</p>
+  <p><strong>Principais funcionalidades:</strong> CRUD de usuários, integração com PostgreSQL, documentação com Swagger/OpenAPI, deploy em Railway.</p>
+</div>
+
+<div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
   <h3><a href="https://github.com/rodrigobarr0s/client-address-api" target="_blank">📦 Client Address API (Spring Boot + ViaCEP)</a></h3>
   <p>API RESTful para gerenciamento de clientes e endereços. Integra com o ViaCEP para consultar dados de endereço a partir do CEP.</p>
   <p><strong>Principais funcionalidades:</strong> CRUD de clientes, integração com ViaCEP, armazenamento em banco de dados H2, documentação com Swagger/OpenAPI.</p>
-</div>
-
- <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
-  <h3><a href="https://github.com/rodrigobarr0s/demo-dao-jdbc" target="_blank">🗃️ Sistema de Banco de Dados (JDBC + MySQL)</a></h3>
-  <p>Projeto Java com JDBC e MySQL para realizar operações CRUD em entidades como Vendedores e Departamentos.</p>
 </div>
 
 <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
