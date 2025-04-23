@@ -30,6 +30,12 @@
 </div>
 
 <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
+  <h3><a href="https://github.com/rodrigobarr0s/board-tarefas" target="_blank">📋 Board de Tarefas (Java + Liquibase)</a></h3>
+  <p>Aplicação para gerenciar tarefas em estilo Kanban. Permite criar, mover e concluir tarefas com uma interface simples e intuitiva.</p>
+  <p><strong>Principais funcionalidades:</strong> Criação e gerenciamento de boards e colunas personalizadas, integração com banco de dados, migrações com Liquibase, e interface em Java.</p>
+</div>
+
+<div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
   <h3><a href="https://github.com/rodrigobarr0s/client-address-api" target="_blank">📦 Client Address API (Spring Boot + ViaCEP)</a></h3>
   <p>API RESTful para gerenciamento de clientes e endereços. Integra com o ViaCEP para consultar dados de endereço a partir do CEP.</p>
   <p><strong>Principais funcionalidades:</strong> CRUD de clientes, integração com ViaCEP, armazenamento em banco de dados H2, documentação com Swagger/OpenAPI.</p>
@@ -38,24 +44,6 @@
 <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
   <h3><a href="https://github.com/rodrigobarr0s/banco-digital" target="_blank">🏦 Banco Digital (MVC + POO)</a></h3>
   <p>Sistema bancário com arquitetura em camadas. Permite abrir contas, fazer transferências, saques, depósitos e gerar extrato com boas práticas de programação orientada a objetos.</p>
-</div>
-
-  <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
-    <h3><a href="https://github.com/rodrigobarr0s/dio-lab-open-source" target="_blank">🌐 DIO Lab Open Source</a></h3>
-    <p>Contribuição ativa em projeto colaborativo da Digital Innovation One, voltado ao aprendizado de práticas de código aberto no GitHub.</p>
-    <p>Criei meu <strong>Profile README</strong> com badges, links e estatísticas, seguindo as diretrizes da comunidade.</p>
-    <details>
-      <summary><strong>Guia de Contribuição</strong></summary>
-      <ul>
-        <li>⭐ Adicione o projeto aos favoritos (star)</li>
-        <li>📁 Crie um fork e clone localmente</li>
-        <li>🌱 Crie uma branch com seu nome de usuário</li>
-        <li>🧾 Crie seu Profile README com badges, stats e links</li>
-        <li>💬 Crie um commit padronizado (ex: <code>feat: add rodrigobarr0s.md</code>)</li>
-        <li>📤 Envie as alterações e crie um pull request</li>
-      </ul>
-      <p>Confira exemplos em <code>/community</code> e utilitários em <code>/utils</code>. Use sua criatividade! 💙</p>
-    </details>
-  </div>
+</div>  
 
 </div>
