@@ -6,7 +6,7 @@
 
 <img src="https://github.com/rodrigobarr0s/rodrigobarr0s/blob/main/imagens/ilustra%C3%A7%C3%A3o%20de%20computador.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-#### Desenvolvedor Back-end | Java, Spring Boot | MySQL, PostgreSQL, MongoDB, JPA/Hibernate | Git, GitHub | DAO  
+#### Desenvolvedor Back-end | Java, Spring Boot | MySQL, PostgreSQL, MongoDB, JPA/Hibernate | Git, GitHub | DAO, DDD 
 <i>(Itaocara, RJ - Brasil)</i>
 
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/rodrigodlbarros)
