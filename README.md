@@ -24,6 +24,13 @@
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
 <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
+  <h3><a href="https://github.com/rodrigobarr0s/springboot3-jpa" target="_blank">🧩 Web Service (Spring Boot 3 + JPA/Hibernate)</a></h3>
+  <p>API RESTful com Java 17 e Spring Boot 3. Projeto com persistência via JPA, banco H2 em memória e carga automática de dados usando perfil de teste.</p>
+  <p><strong>Principais funcionalidades:</strong> Relacionamento entre entidades (usuários, produtos, pedidos, pagamentos), console H2, estrutura em camadas e diagrama de modelo conceitual (UML).</p>
+  <p><strong>Tecnologias:</strong> Spring Boot, JPA/Hibernate, Apache Tomcat, Maven, H2 Database, Postman.</p>
+</div>
+
+<div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
   <h3><a href="https://github.com/rodrigobarr0s/cloud-bank-api" target="_blank">☁️ Cloud Bank API (Spring Boot + PostgreSQL)</a></h3>
   <p>API para gerenciamento de contas bancárias, usuários, cartões e notícias. Base sólida para criar APIs escaláveis e robustas.</p>
   <p><strong>Principais funcionalidades:</strong> CRUD de usuários, integração com PostgreSQL, documentação com Swagger/OpenAPI, deploy em Railway.</p>
