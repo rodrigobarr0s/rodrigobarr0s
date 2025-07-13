@@ -24,33 +24,17 @@
 <div style="display: flex; gap: 20px; flex-wrap: wrap;">
 
 <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
+  <h3><a href="https://github.com/rodrigobarr0s/chess-system-java" target="_blank">♟️ Chess System Java (Java + OOP + Defensive Programming)</a></h3>
+  <p>Simulador completo de jogo de xadrez via terminal, construído com Java puro. Projeto realizado durante o curso com o Prof. Dr. Nélio Alves, utilizando os pilares da programação orientada a objetos.</p>
+  <p><strong>Principais funcionalidades:</strong> Validação de jogadas, regras completas do jogo (roque, en passant, promoção), alternância de jogadores e controle de peças capturadas. Impressão do tabuleiro com lógica defensiva e destaque de movimentos possíveis.</p>
+  <p><strong>Tecnologias:</strong> Java 8+, POO, exceções personalizadas, estrutura em camadas, matriz como tabuleiro.</p>
+</div>
+
+<div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
   <h3><a href="https://github.com/rodrigobarr0s/springboot3-jpa" target="_blank">🧩 Web Service (Spring Boot 3 + JPA/Hibernate)</a></h3>
   <p>API RESTful com Java 17 e Spring Boot 3. Projeto com persistência via JPA, banco H2 em memória e carga automática de dados usando perfil de teste.</p>
   <p><strong>Principais funcionalidades:</strong> Relacionamento entre entidades (usuários, produtos, pedidos, pagamentos), console H2, estrutura em camadas e diagrama de modelo conceitual (UML).</p>
   <p><strong>Tecnologias:</strong> Spring Boot, JPA/Hibernate, Apache Tomcat, Maven, H2 Database, Postman.</p>
 </div>
-
-<div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
-  <h3><a href="https://github.com/rodrigobarr0s/cloud-bank-api" target="_blank">☁️ Cloud Bank API (Spring Boot + PostgreSQL)</a></h3>
-  <p>API para gerenciamento de contas bancárias, usuários, cartões e notícias. Base sólida para criar APIs escaláveis e robustas.</p>
-  <p><strong>Principais funcionalidades:</strong> CRUD de usuários, integração com PostgreSQL, documentação com Swagger/OpenAPI, deploy em Railway.</p>
-</div>
-
-<div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
-  <h3><a href="https://github.com/rodrigobarr0s/board-tarefas" target="_blank">📋 Board de Tarefas (Java + Liquibase)</a></h3>
-  <p>Aplicação para gerenciar tarefas em estilo Kanban. Permite criar, mover e concluir tarefas com uma interface simples e intuitiva.</p>
-  <p><strong>Principais funcionalidades:</strong> Criação e gerenciamento de boards e colunas personalizadas, integração com banco de dados, migrações com Liquibase, e interface em Java.</p>
-</div>
-
-<div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
-  <h3><a href="https://github.com/rodrigobarr0s/client-address-api" target="_blank">📦 Client Address API (Spring Boot + ViaCEP)</a></h3>
-  <p>API RESTful para gerenciamento de clientes e endereços. Integra com o ViaCEP para consultar dados de endereço a partir do CEP.</p>
-  <p><strong>Principais funcionalidades:</strong> CRUD de clientes, integração com ViaCEP, armazenamento em banco de dados H2, documentação com Swagger/OpenAPI.</p>
-</div>
-
-<div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
-  <h3><a href="https://github.com/rodrigobarr0s/banco-digital" target="_blank">🏦 Banco Digital (MVC + POO)</a></h3>
-  <p>Sistema bancário com arquitetura em camadas. Permite abrir contas, fazer transferências, saques, depósitos e gerar extrato com boas práticas de programação orientada a objetos.</p>
-</div>  
 
 </div>
