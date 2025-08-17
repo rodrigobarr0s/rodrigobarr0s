@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<img src="https://github.com/rodrigobarr0s/rodrigobarr0s/blob/main/imagens/ilustra%C3%A7%C3%A3o%20de%20computador.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/rodrigobarr0s/rodrigobarr0s/main/imagens/ilustra%C3%A7%C3%A3o%20de%20computador.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 #### Desenvolvedor Back-end | Java, Spring Boot | MySQL, PostgreSQL, MongoDB, JPA/Hibernate | Git, GitHub | DAO, DDD 
 <i>(Itaocara, RJ - Brasil)</i>
@@ -28,6 +28,13 @@
   <p>Simulador completo de jogo de xadrez via terminal, construído com Java puro. Projeto realizado durante o curso com o Prof. Dr. Nélio Alves, utilizando os pilares da programação orientada a objetos.</p>
   <p><strong>Principais funcionalidades:</strong> Validação de jogadas, regras completas do jogo (roque, en passant, promoção), alternância de jogadores e controle de peças capturadas. Impressão do tabuleiro com lógica defensiva e destaque de movimentos possíveis.</p>
   <p><strong>Tecnologias:</strong> Java 8+, POO, exceções personalizadas, estrutura em camadas, matriz como tabuleiro.</p>
+</div>
+
+<div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
+  <h3><a href="https://github.com/rodrigobarr0s/workshop-spring-boot-mongodb" target="_blank">🍃 Web services com Spring Boot e NoSQL (MongoDB)</a></h3>
+  <p>Backend completo com Java 17, Spring Boot 3 e MongoDB. Estruturado em camadas, com carga inicial de dados, uso de DTOs, relacionamentos entre documentos e consultas avançadas com operadores MongoDB.</p>
+  <p><strong>Principais funcionalidades:</strong> CRUD de usuários e posts, comentários embutidos, projeções com DTOs, busca por título e texto com intervalo de datas.</p>
+  <p><strong>Tecnologias:</strong> Java 17, Spring Boot 3, Spring Data MongoDB, MongoDB Compass, Maven, Postman.</p>
 </div>
 
 <div style="flex: 1; min-width: 280px; max-width: 350px; border: 1px solid #ccc; padding: 15px; border-radius: 10px;">
